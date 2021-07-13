@@ -39,7 +39,7 @@ body { height: 100%;background-color: rgb(132, 0, 255);
     font-family: 'Roboto', sans-serif;
 }
 .parent {
-height: 545px;
+height: 558px;
 background: #000000;
 display: flex;
 align-items: center;
@@ -70,7 +70,11 @@ text-align: center;
 }
 
 
-
+h5{
+    text-align: center;
+    color: rgb(153, 0, 255);
+    margin-top: 0px;
+}
 
 
 
